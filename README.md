@@ -8,13 +8,13 @@ De GitHubplek van de computerplek van de maakplek
 
 De eerste maakbestanddag heeft een licht programma:
 
-18:00 deur open
-18:30 pizza bestellen
-19:30 show-and-tell [*][$][%]
-  * Thijs van Beers: ?Hologram hart, ?People Go
-  * Sander van Kasteel: ?Kobo
-  * Frode Lindeijer: ?Hexon, ?Quatter
+ * 18:00 deur open
+ * 18:30 pizza bestellen
+ * 19:30 show-and-tell [*][$][%]
+    * Thijs van Beers: ?Hologram hart, ?People Go
+    * Sander van Kasteel: ?Kobo
+    * Frode Lindeijer: ?Hexon, ?Quatter
 
-[*] show-and-tell = iemand vertelt maximaal tien minuten over wat hij/zij heeft gemaakt
-[$] begintijd kan verschuiven naar later. De sprekers zullen hun pizza moeten hebben kunnen opgegeten
-[%] volgorde van de sprekers nu op alfabet, maar dit hoeft niet de volgorde van spreken te zijn
+ * [*] show-and-tell = iemand vertelt maximaal tien minuten over wat hij/zij heeft gemaakt
+ * [$] begintijd kan verschuiven naar later. De sprekers zullen hun pizza moeten hebben kunnen opgegeten
+ * [%] volgorde van de sprekers nu op alfabet, maar dit hoeft niet de volgorde van spreken te zijn
