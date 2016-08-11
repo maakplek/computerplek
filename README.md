@@ -11,7 +11,7 @@ De eerste maakbestanddag heeft een licht programma:
  * 18:00 deur open
  * 18:30 pizza bestellen
  * 19:30 show-and-tell [*][$][%]
-    * Thijs van Beers: ?Hologram hart, ?People Go
+    * Thijs van Beers: People Go (Pokémon Go rip off)
     * Sander van Kasteel: ?Kobo
     * Frode Lindeijer: ?Hexon, ?Quatter
 
