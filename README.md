@@ -11,9 +11,9 @@ De eerste maakbestanddag heeft een licht programma:
  * 18:00 deur open
  * 18:30 pizza bestellen
  * 19:30 show-and-tell [*][$][%]
-    * Thijs van Beers: People Go (Pokémon Go rip off)
-    * Sander van Kasteel: ?Kobo
-    * Frode Lindeijer: ?Hexon, ?Quatter
+    * @janderkkotlarski: 2D C++ game(s) met SFML
+    * @sandervankasteel: een gehackt apparaaten
+    * @Modanung: 3D C++ game(s) met Urho3D
 
  * [*] show-and-tell = iemand vertelt maximaal tien minuten over wat hij/zij heeft gemaakt
  * [$] begintijd kan verschuiven naar later. De sprekers zullen hun pizza moeten hebben kunnen opgegeten
